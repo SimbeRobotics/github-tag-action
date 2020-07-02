@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "SimbeRobotics fork of github-tag-action"
+
 # config
 default_semvar_bump=${DEFAULT_BUMP:-minor}
 with_v=${WITH_V:-false}
